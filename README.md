@@ -5,7 +5,6 @@ Spring Boot E-Commerce Project
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [Contact](#contact)
 - [Screen Shot](#screenshot)
 
 # Software And Tools Required
@@ -33,9 +32,6 @@ MySQL Workbench is a visual database design tool and administration tool for MyS
 ## Installation
 
 1. Clone the repository to your local machine.
-   \```bash
-   git clone https://github.com/vikashalikatti/Boot-restapi-shopping.git
-   \```
 
 2. Ensure you have Java and Maven installed.
 
@@ -94,11 +90,6 @@ We welcome contributions! If you'd like to contribute:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and submit a pull request.
 4. For major changes, please open an issue first to discuss potential improvements.
-
-## Contact
-
-For any inquiries, feel free to contact us at (vikashalikatti2000@gmail.com).".
-
 ## Screen Shot
 
 https://github.com/vikashalikatti/Boot-restapi-shopping/tree/master/Postman%20Pic
